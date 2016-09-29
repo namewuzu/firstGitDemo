@@ -1,0 +1,8 @@
+10:02:01.761 [Test worker] INFO  ApiTest - 6226220614025285王刚11备注0328462354CB570ED848E5094685F943
+10:02:01.819 [Test worker] INFO  ApiTest - reqId:[8b151dcd-e43b-4587-acac-3b99700c71c7],请求地址[http://localhost:8080/api/pay],请求参数:hp.accountName=%E7%8E%8B%E5%88%9A&hp.type=2&hp.amount=1&hp.sign=082814EEA71F35E7A9040D378D82EF75&hp.remark=%E5%A4%87%E6%B3%A8&hp.accountNo=6226220614025285&hp.transId=1
+10:04:06.179 [Test worker] INFO  ApiTest - 6226220614025285王刚11备注0328462354CB570ED848E5094685F943
+10:04:06.232 [Test worker] INFO  ApiTest - reqId:[40933af7-11c6-44a6-9a7c-747c1487cc21],请求地址[http://localhost:8080/api/pay],请求参数:hp.accountName=%E7%8E%8B%E5%88%9A&hp.type=2&hp.amount=1&hp.sign=082814EEA71F35E7A9040D378D82EF75&hp.remark=%E5%A4%87%E6%B3%A8&hp.accountNo=6226220614025285&hp.transId=1
+12:17:43.197 [Test worker] INFO  ApiTest - 6226220614025285王刚11备注0328462354CB570ED848E5094685F943
+12:17:43.300 [Test worker] INFO  ApiTest - reqId:[e4aa58bd-dd3e-4e1b-b0e7-a198ea6f8362],请求地址[http://localhost:8080/api/pay],请求参数:hp.accountName=%E7%8E%8B%E5%88%9A&hp.type=2&hp.amount=1&hp.sign=082814EEA71F35E7A9040D378D82EF75&hp.remark=%E5%A4%87%E6%B3%A8&hp.accountNo=6226220614025285&hp.transId=1
+11:03:12.671 [Test worker] INFO  ApiTest - 6226220614025285����11��ע0328462354CB570ED848E5094685F943
+11:03:33.567 [Test worker] INFO  ApiTest - 6226220614025285����11��ע0328462354CB570ED848E5094685F943

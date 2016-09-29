@@ -1,0 +1,6 @@
+11:57:40.634 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:03:36.205 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:04:51.337 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:06:09.531 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:06:26.061 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+12:08:35.475 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
